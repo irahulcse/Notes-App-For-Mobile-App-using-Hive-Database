@@ -1,6 +1,10 @@
 # notes_app
 
-A new Flutter project.
+In this project, basically I had referred to a medium tutorial where we had learnt about the Hive Database Fundamentals and also learnt about the Dart Language specific such as Stateless/Stateful/Keys for the Project.
+
+# Link of the Tutorial:
+
+The link of the tutorial is given in this [link](https://medium.com/flutter-community/creating-a-notes-app-for-web-and-mobile-using-a-local-database-bde8627e6f72)
 
 ## Getting Started
 
