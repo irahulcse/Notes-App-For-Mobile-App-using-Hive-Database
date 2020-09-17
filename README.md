@@ -1,4 +1,4 @@
-![Image](images/rovers.jpg)
+![Image](images/rover.jpg)
 # Flutter Notes Application using Hive Database :boom:
 
 Flutter notes application is a kind of the application which can be used to fetch the data which is using the Hive as the database.
